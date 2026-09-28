@@ -1,3 +1,1 @@
-TEMP ADD
-
-ADD PICTURES TOO!!!
+Building The back propagation currently !! 
